@@ -1,0 +1,10 @@
+C:\Users\malgo\source\repos\Lab 6 _Metody rozszerzające\Lab 6 _Metody rozszerzające\bin\Debug\Lab 6 _Metody rozszerzające.exe.config
+C:\Users\malgo\source\repos\Lab 6 _Metody rozszerzające\Lab 6 _Metody rozszerzające\bin\Debug\Lab 6 _Metody rozszerzające.exe
+C:\Users\malgo\source\repos\Lab 6 _Metody rozszerzające\Lab 6 _Metody rozszerzające\bin\Debug\Lab 6 _Metody rozszerzające.pdb
+C:\Users\malgo\source\repos\Lab 6 _Metody rozszerzające\Lab 6 _Metody rozszerzające\obj\Debug\Lab 6 _Metody rozszerzające.csprojAssemblyReference.cache
+C:\Users\malgo\source\repos\Lab 6 _Metody rozszerzające\Lab 6 _Metody rozszerzające\obj\Debug\Lab_6__Metody_rozszerzające.Form1.resources
+C:\Users\malgo\source\repos\Lab 6 _Metody rozszerzające\Lab 6 _Metody rozszerzające\obj\Debug\Lab_6__Metody_rozszerzające.Properties.Resources.resources
+C:\Users\malgo\source\repos\Lab 6 _Metody rozszerzające\Lab 6 _Metody rozszerzające\obj\Debug\Lab 6 _Metody rozszerzające.csproj.GenerateResource.cache
+C:\Users\malgo\source\repos\Lab 6 _Metody rozszerzające\Lab 6 _Metody rozszerzające\obj\Debug\Lab 6 _Metody rozszerzające.csproj.CoreCompileInputs.cache
+C:\Users\malgo\source\repos\Lab 6 _Metody rozszerzające\Lab 6 _Metody rozszerzające\obj\Debug\Lab 6 _Metody rozszerzające.exe
+C:\Users\malgo\source\repos\Lab 6 _Metody rozszerzające\Lab 6 _Metody rozszerzające\obj\Debug\Lab 6 _Metody rozszerzające.pdb
