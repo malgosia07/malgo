@@ -1,0 +1,12 @@
+C:\Users\malgo\source\repos\Space shooter\Space shooter\bin\Debug\Space shooter.exe.config
+C:\Users\malgo\source\repos\Space shooter\Space shooter\bin\Debug\Space shooter.exe
+C:\Users\malgo\source\repos\Space shooter\Space shooter\bin\Debug\Space shooter.pdb
+C:\Users\malgo\source\repos\Space shooter\Space shooter\obj\Debug\Space shooter.csprojAssemblyReference.cache
+C:\Users\malgo\source\repos\Space shooter\Space shooter\obj\Debug\Space_shooter.Form1.resources
+C:\Users\malgo\source\repos\Space shooter\Space shooter\obj\Debug\Space_shooter.Properties.Resources.resources
+C:\Users\malgo\source\repos\Space shooter\Space shooter\obj\Debug\Space shooter.csproj.GenerateResource.cache
+C:\Users\malgo\source\repos\Space shooter\Space shooter\obj\Debug\Space shooter.csproj.CoreCompileInputs.cache
+C:\Users\malgo\source\repos\Space shooter\Space shooter\obj\Debug\Space shooter.exe
+C:\Users\malgo\source\repos\Space shooter\Space shooter\obj\Debug\Space shooter.pdb
+C:\Users\malgo\source\repos\Space shooter\Space shooter\obj\Debug\Interop.WMPLib.dll
+C:\Users\malgo\source\repos\Space shooter\Space shooter\obj\Debug\Space shooter.csproj.ResolveComReference.cache
