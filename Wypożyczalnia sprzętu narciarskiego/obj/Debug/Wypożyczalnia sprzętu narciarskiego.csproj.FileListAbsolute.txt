@@ -1,0 +1,15 @@
+C:\Users\malgo\source\repos\Wypożyczalnia sprzętu narciarskiego\Wypożyczalnia sprzętu narciarskiego\bin\Debug\Wypożyczalnia sprzętu narciarskiego.exe.config
+C:\Users\malgo\source\repos\Wypożyczalnia sprzętu narciarskiego\Wypożyczalnia sprzętu narciarskiego\bin\Debug\Wypożyczalnia sprzętu narciarskiego.exe
+C:\Users\malgo\source\repos\Wypożyczalnia sprzętu narciarskiego\Wypożyczalnia sprzętu narciarskiego\bin\Debug\Wypożyczalnia sprzętu narciarskiego.pdb
+C:\Users\malgo\source\repos\Wypożyczalnia sprzętu narciarskiego\Wypożyczalnia sprzętu narciarskiego\obj\Debug\Wypożyczalnia sprzętu narciarskiego.csprojAssemblyReference.cache
+C:\Users\malgo\source\repos\Wypożyczalnia sprzętu narciarskiego\Wypożyczalnia sprzętu narciarskiego\obj\Debug\MainWindow.g.cs
+C:\Users\malgo\source\repos\Wypożyczalnia sprzętu narciarskiego\Wypożyczalnia sprzętu narciarskiego\obj\Debug\App.g.cs
+C:\Users\malgo\source\repos\Wypożyczalnia sprzętu narciarskiego\Wypożyczalnia sprzętu narciarskiego\obj\Debug\Wypożyczalnia sprzętu narciarskiego_MarkupCompile.cache
+C:\Users\malgo\source\repos\Wypożyczalnia sprzętu narciarskiego\Wypożyczalnia sprzętu narciarskiego\obj\Debug\Wypożyczalnia sprzętu narciarskiego_MarkupCompile.lref
+C:\Users\malgo\source\repos\Wypożyczalnia sprzętu narciarskiego\Wypożyczalnia sprzętu narciarskiego\obj\Debug\MainWindow.baml
+C:\Users\malgo\source\repos\Wypożyczalnia sprzętu narciarskiego\Wypożyczalnia sprzętu narciarskiego\obj\Debug\Wypożyczalnia sprzętu narciarskiego.g.resources
+C:\Users\malgo\source\repos\Wypożyczalnia sprzętu narciarskiego\Wypożyczalnia sprzętu narciarskiego\obj\Debug\Wypożyczalnia_sprzętu_narciarskiego.Properties.Resources.resources
+C:\Users\malgo\source\repos\Wypożyczalnia sprzętu narciarskiego\Wypożyczalnia sprzętu narciarskiego\obj\Debug\Wypożyczalnia sprzętu narciarskiego.csproj.GenerateResource.cache
+C:\Users\malgo\source\repos\Wypożyczalnia sprzętu narciarskiego\Wypożyczalnia sprzętu narciarskiego\obj\Debug\Wypożyczalnia sprzętu narciarskiego.csproj.CoreCompileInputs.cache
+C:\Users\malgo\source\repos\Wypożyczalnia sprzętu narciarskiego\Wypożyczalnia sprzętu narciarskiego\obj\Debug\Wypożyczalnia sprzętu narciarskiego.exe
+C:\Users\malgo\source\repos\Wypożyczalnia sprzętu narciarskiego\Wypożyczalnia sprzętu narciarskiego\obj\Debug\Wypożyczalnia sprzętu narciarskiego.pdb

@@ -1,0 +1,135 @@
+﻿<Window x:Class="Wypożyczalnia_sprzętu_narciarskiego.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wypożyczalnia_sprzętu_narciarskiego"
+        mc:Ignorable="d"
+        Title="Wypożyczalnia sprzętu naciarskiego" Height="450" Width="800">
+    <Grid Height="420" Margin="0,-1.418,-0.4,1.818" VerticalAlignment="Bottom">
+
+
+        <Canvas Margin="66.489,35.823,470.026,103.296">
+            <TextBox x:Name="textImie"
+                HorizontalAlignment="Left"
+                Height="23"
+                TextWrapping="Wrap"
+                VerticalAlignment="Top"
+                Width="120"
+                 Canvas.Left="2.152" Canvas.Top="19.069"
+                 />
+            <Label Content="Imie"
+                HorizontalAlignment="Left" 
+                Height="26.536" 
+                VerticalAlignment="Top"
+                Width="27.359"
+                FontSize="9"
+               Canvas.Left="2.152"
+               />
+            <TextBox x:Name="textNazwisko" 
+                Height="23" 
+                TextWrapping="Wrap"
+                VerticalAlignment="Top"
+                Width="120"
+                HorizontalAlignment="Left"
+                 Canvas.Left="137.085" Canvas.Top="19.069" TextChanged="textNazwisko_TextChanged"
+                 />
+            <Label Content="Nazwisko" Height="26.536"
+                VerticalAlignment="Top"
+                Width="49.759" 
+                FontSize="9" 
+                HorizontalAlignment="Left"
+               Canvas.Left="137.085"
+               />
+            <DatePicker x:Name="DataPoc" HorizontalAlignment="Left"
+                VerticalAlignment="Top"
+                    Canvas.Top="154.132"
+                    />
+            <Label Content="Data wypożyczenia: "
+                HorizontalAlignment="Left"
+                VerticalAlignment="Top" 
+                FontSize="9"
+               Canvas.Top="132.162"
+               />
+            <DatePicker x:Name="DataKon" HorizontalAlignment="Left"
+                VerticalAlignment="Top"
+                    Canvas.Left="116.266" Canvas.Top="154.132"
+                    />
+            <Label Content="Data oddania:"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Top"
+                FontSize="9"
+               Canvas.Left="116.266" Canvas.Top="132.162"
+               />
+            <TextBox x:Name="textCena"
+                HorizontalAlignment="Left"
+                PreviewTextInput="NumberValidationTextBox" 
+                Height="23"
+                TextWrapping="Wrap"
+                VerticalAlignment="Top"
+                Width="82.838"
+                 Canvas.Left="137.085" Canvas.Top="84.135"
+                 />
+            <Label Content="Cena za komplet:"
+                HorizontalAlignment="Left"
+                Height="20.669"
+                VerticalAlignment="Top"
+                Width="82.838"
+                FontSize="9"
+               Canvas.Left="137.085" Canvas.Top="63.466"
+               />
+            <TextBox x:Name="textDni"
+                HorizontalAlignment="Left"
+                PreviewTextInput="NumberValidationTextBox"     
+                IsReadOnly="True"
+                Height="23"
+                TextWrapping="Wrap"
+                VerticalAlignment="Top"
+                Width="53.333"
+                 Canvas.Left="2.152" Canvas.Top="84.135" Background="#FFF0F0F0" TextChanged="textDni_TextChanged"
+                 />
+            <Label Content="Ilość dni:"
+                HorizontalAlignment="Left"
+                Height="20.669"
+                VerticalAlignment="Top"
+                Width="47.093" FontSize="9"
+               Canvas.Left="2.152" Canvas.Top="63.466"
+               />
+            <Label Content="Elementy opcjonalne: "
+                HorizontalAlignment="Left"
+                VerticalAlignment="Top"
+                FontSize="10"
+               Canvas.Top="194.532"
+               />
+            <Button Content="Wylicz"
+                Height="27.418"
+                Width="110.693"
+                Canvas.Left="146.392" Canvas.Top="253.463" Click="Button_Click"
+                />
+            <Label Content="Suma:" Canvas.Left="116.266" Canvas.Top="194.532" FontSize="9" Width="35.117"/>
+            <TextBox x:Name="SumaCeny"
+                Height="23"
+               IsReadOnly="True"
+                TextWrapping="Wrap"
+                Width="53.333"
+                Canvas.Left="151.383" Canvas.Top="193.502" VerticalAlignment="Top" HorizontalAlignment="Left" Background="#FFF0F0F0"
+                 />
+            <CheckBox x:Name="CheckBoxGogle" Content="Gogle" Canvas.Left="2.152" Canvas.Top="224.65" FontSize="9"/>
+            <CheckBox x:Name="CheckBoxKijki" Content="Kijki" Canvas.Left="2.152" Canvas.Top="244.749" FontSize="9"/>
+            <CheckBox x:Name="CheckBoxKask" Content="Kask" Canvas.Left="2.152" Canvas.Top="264.847" FontSize="9"/>
+        </Canvas>
+        <ScrollViewer HorizontalAlignment="Center"
+            Height="257.683"
+            Margin="357.733,50.536,0,0"
+            VerticalAlignment="Top"
+            Width="332.267" >
+
+            <ListBox x:Name="Lista"
+                     RenderTransformOrigin="0.504,0.486"
+                     Height="257.683" Width="332.267" SelectionChanged="Lista_SelectionChanged"
+                 />
+
+        </ScrollViewer>
+
+    </Grid>
+</Window>

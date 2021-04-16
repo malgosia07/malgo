@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Blend for Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wypożyczalnia sprzętu narciarskiego", "Wypożyczalnia sprzętu narciarskiego\Wypożyczalnia sprzętu narciarskiego.csproj", "{F9D745AC-4A23-4DAD-9F66-7094CBE80807}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9D745AC-4A23-4DAD-9F66-7094CBE80807}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9D745AC-4A23-4DAD-9F66-7094CBE80807}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9D745AC-4A23-4DAD-9F66-7094CBE80807}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9D745AC-4A23-4DAD-9F66-7094CBE80807}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {760D0A96-CE35-4D6C-B6CC-4A434937CDE0}
+	EndGlobalSection
+EndGlobal
